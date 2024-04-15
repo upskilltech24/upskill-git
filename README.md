@@ -33,3 +33,4 @@ Commands
 7. git commit -m "Message"
 8. git push origin xxxx, where x is branch name
 9. git pull origin xxxx, where x is branch name
+10. git status
