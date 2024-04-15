@@ -34,3 +34,13 @@ Commands
 8. git push origin xxxx, where x is branch name
 9. git pull origin xxxx, where x is branch name
 10. git status
+
+---
+
+echo "# upskill-javascript-advanced" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/upskilltech24/upskill-javascript-advanced.git
+git push -u origin main
