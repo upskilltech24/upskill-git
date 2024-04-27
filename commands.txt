@@ -28,7 +28,8 @@ Commands
 2. cd..
 3. E:
 4. git clone https://github.com/upskilltech24/upskill-git
-5. git checkout -b training
+5. git checkout -b training (first time checkout)
+5 a. git checkout training (swtich branch) // training is the new branch name
 6. git add .
 7. git commit -m "Message"
 8. git push origin xxxx, where x is branch name
